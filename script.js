@@ -4,7 +4,7 @@ const botonEnviarDeseo = document.getElementById('boton-enviar-deseo');
 const mensajesDeseos = document.getElementById('mensajes-deseos');
 
 // Inicializar el nombre del cumpleañero
-nombreCumpleañero.textContent = '**Dayana**'; // Reemplazar con el nombre real
+nombreCumpleañero.textContent = '**Dayana, Amorcito de mi vida**'; // Reemplazar con el nombre real
 
 // Mostrar el área de deseos al hacer clic en el botón
 botonDeseo.addEventListener('click', () => {
